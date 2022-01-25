@@ -12,7 +12,7 @@ const darkTheme = {
   textHighlightColor: "#F4D092",
   backgroundColor: "rgba(8, 15, 53, 1)",
   background: `
-    linear-gradient(180deg, rgba(8, 15, 53, 0), rgba(0, 0, 10, 0.9)),
+    background: linear-gradient(#e66465, #9198e5),
     linear-gradient(333deg, rgba(153, 207, 255, 0.2), rgba(180, 255, 217, 0.08)),
     radial-gradient(circle at 77% 89%, rgba(125, 163, 169, 0.8), rgba(125, 163, 169, 0) 50%),
     radial-gradient(circle at 15% 95%, rgba(125, 163, 169, 0.8), rgba(125, 163, 169, 0) 43%),
